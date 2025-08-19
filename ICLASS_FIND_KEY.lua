@@ -1,6 +1,9 @@
 author = 'Trigat'
 desc = [[
 This script checks HID iClass card against a list of keys.
+
+Dictionary provided by RRG/Iceman Respository.
+https://github.com/RfidResearchGroup/proxmark3
 ]]
 
 local keys = [[
