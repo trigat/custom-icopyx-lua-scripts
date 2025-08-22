@@ -8,7 +8,10 @@ For example, the ICLASS_LEGACY_CLONE.lua script allows cloning of HID iCLASS Leg
 
 Note: Testing has only been performed on iCopy-XS OS v1.0.90.
 
-Dictionaries and commands are sourced from the [RRG/Iceaman Repository](https://github.com/RfidResearchGroup/proxmark3).
+These projects and references have been especially helpful:
+
+- [RRG / Iceman Repository](https://github.com/RfidResearchGroup/proxmark3)
+- [iCopy-X Community Teardown](https://github.com/iCopy-X-Community/icopyx-teardown))
 
 ## Installation
 1. Plug the iCopy-X into a computer and enable PC-Mode.
