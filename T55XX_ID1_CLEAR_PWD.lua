@@ -1,6 +1,6 @@
 author = 'Trigat'
 desc = [[
-This script clears the password from a T55xx tag.
+This script clears the ID1 password from a T55xx tag.
 The password is what enables the tag to emulate a genuine iCopy-X ID1 card.
 
 WARNING: This script is intended only for T55xx tags. Running it on a genuine ID1 tag may break the tag.
