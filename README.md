@@ -11,7 +11,7 @@ Note: Testing has only been performed on iCopy-XS OS v1.0.90.
 These projects and references have been especially helpful:
 
 - [RRG / Iceman Repository](https://github.com/RfidResearchGroup/proxmark3)
-- [iCopy-X Community Teardown](https://github.com/iCopy-X-Community/icopyx-teardown))
+- [iCopy-X Community Teardown](https://github.com/iCopy-X-Community/icopyx-teardown)
 
 ## Installation
 1. Plug the iCopy-X into a computer and enable PC-Mode.
