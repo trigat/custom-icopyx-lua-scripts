@@ -1,3 +1,4 @@
+copyright = "Trigat"
 author = "Trigat"
 desc = "This script scans an EMV (credit or debit) card and extracts Track 2 information."
 
