@@ -1,4 +1,4 @@
-author = 'Trigat'
+author = "Trigat"
 desc = [[
 Clone blocks 6-9 of ICLASS_LEGACY_DUMP onto new HID iClass Legacy tag.
 

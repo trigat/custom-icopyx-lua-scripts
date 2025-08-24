@@ -1,4 +1,4 @@
-author = 'Trigat'
+author = "Trigat"
 desc = [[
 Dump all memory from HID iClass Legacy tag to dump file.
 

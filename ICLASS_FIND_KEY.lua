@@ -1,4 +1,4 @@
-author = 'Trigat'
+author = "Trigat"
 desc = [[
 This script checks HID iClass card against a list of keys.
 

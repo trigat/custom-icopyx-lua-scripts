@@ -1,4 +1,4 @@
-author = 'Trigat'
+author = "Trigat"
 desc = [[
 This script checks Mifare DESFire card against a list of keys.
 
